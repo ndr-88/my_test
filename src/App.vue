@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <aside>
-      <p><i class="fas fa-long-arrow-alt-left"></i>Explore all zakeke features</p>
+      <p><i class="fas fa-long-arrow-alt-left"></i>Explore all app features</p>
 
       <section class="stepsContainer">
         <h3>Let's get your set up!</h3>
@@ -15,7 +15,7 @@
     </aside>
     <section class="shoppingContainer">
       <header>
-        <nav class="navZakeke">
+        <nav class="navApp">
           <ul>
             <li class="inactive">Get started</li>
             <li class="active">Add product</li>

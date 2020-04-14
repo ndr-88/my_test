@@ -1,4 +1,4 @@
-# zakeke_test
+# app_test
 
 ## Project setup
 ```

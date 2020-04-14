@@ -3,7 +3,7 @@
 
     <main class="mainContainer">
       <article>
-        <h1>Add a product into Zakeke</h1>
+        <h1>Add a product into app</h1>
         <p>Choose where you'd like to get it from</p>
       </article>
       <div class="ctaContainer">
